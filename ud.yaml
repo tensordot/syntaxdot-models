@@ -10,3 +10,9 @@ nl-l6-h384-20210728:
   tagset: ud
   sha256: 339c562b65239d48e92bf48f9cfd7055b396b096d5d49cd62c026090b5e1a203
   syntaxdot_version: ">= 0.4.0"
+nl-l12-h384-albert-20210728:
+  filename: nl-l12-h384-albert-20210728.tar.gz
+  lang: nl
+  tagset: ud
+  sha256: b7e9cafd1e9489c5917455297fba83df8597f8c7fe7ca408e6efd11d40a3c85e
+  syntaxdot_version: ">= 0.4.0"
