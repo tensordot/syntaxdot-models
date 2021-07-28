@@ -4,3 +4,9 @@ nl-l12-h384-20210724:
   tagset: ud
   sha256: 44714d95b3c4827efc0cb2722d59645d8fc2fb78012c30c49353d1b2ece490ac
   syntaxdot_version: ">= 0.4.0"
+nl-l6-h384-20210728:
+  filename: nl-l6-h384-20210728.tar.gz
+  lang: nl
+  tagset: ud
+  sha256: 339c562b65239d48e92bf48f9cfd7055b396b096d5d49cd62c026090b5e1a203
+  syntaxdot_version: ">= 0.4.0"
