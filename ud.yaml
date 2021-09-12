@@ -1,3 +1,21 @@
+de-ud-huge-20210307:
+  filename: de-ud-huge-20210307.tar.gz
+  lang: de
+  tagset: ud
+  sha256: c92b020258041a6fd05f7db63e17d5c991fc48b1f35951609494e47f87006ca7
+  syntaxdot_version: ">= 0.4.0"
+de-ud-large-20210326:
+  filename: de-ud-large-20210326.tar.gz
+  lang: de
+  tagset: ud
+  sha256: 4276c25e3baeaeca9a03a4423d7ae878d6fb8db7b1754864f2e0a7ee646fc144
+  syntaxdot_version: ">= 0.4.0"
+ de-ud-medium-20210326:
+  filename: de-ud-medium-20210326.tar.gz
+  lang: de
+  tagset: ud
+  sha256: 4276c25e3baeaeca9a03a4423d7ae878d6fb8db7b1754864f2e0a7ee646fc144
+  syntaxdot_version: ">= 0.4.0"
 nl-l12-h384-20210724:
   filename: nl-l12-h384-20210724.tar.gz
   lang: nl
